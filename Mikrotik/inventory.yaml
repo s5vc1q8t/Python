@@ -1,0 +1,9 @@
+devices:
+  - ip: 172.16.21.2
+
+credentials:
+  username: admin
+  password: '123'
+
+backup:
+  max_workers: 100
