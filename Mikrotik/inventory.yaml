@@ -1,5 +1,6 @@
 devices:
   - ip: 172.16.21.2
+  - ip: 172.16.21.8
 
 credentials:
   username: admin
